@@ -1,0 +1,21 @@
+.container.flex-wrap {
+  background-color:pink;
+}
+
+.col-lg-3.backCol1 {
+  background-color:red;
+  color:white;
+  text-align:center;
+  padding-top:20px;
+  width:100%;
+  margin:0;
+}
+
+#but {
+  margin-top:15px;
+}
+
+#move {
+  margin-top:30px;
+}
+
